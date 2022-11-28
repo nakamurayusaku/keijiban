@@ -1,0 +1,124 @@
+.logo {
+    width: 200px;
+    height: 50px;
+}
+
+header ul {
+    background-color: black;
+    width: 100%;
+    height: 25px;
+    float: left;
+    line-height: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+header ul li {
+    list-style: none;
+    float: left;
+    padding: 7.5px 10px 0px 10px;
+    color: white;
+    font-size: 7px
+}
+
+.left {
+    float: left;
+    width: 70%;
+}
+
+.right {
+    float: right;
+    width: 30%;
+}
+
+h1 {margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    border-left: 5px solid;
+    border-bottom: 2px solid gray;
+}
+
+h2 {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border-bottom: 2px dashed black;
+    font-size: 16px;
+    margin-left: 20px;
+    float: left;
+    
+}
+
+
+.sideA {
+    font-size: 12px;
+    list-style: none;
+    margin-left: 0px;
+    line-height: 2;
+    float: left;
+}
+
+
+.sideB {
+    font-size: 12px;
+    list-style: none;
+    margin-left: 0px;
+    line-height: 2;
+    float: left;
+}
+
+.sideC {
+    font-size: 12px;
+    list-style: none;
+    margin-left: 0px;
+    line-height: 2;
+    float: left;
+}
+
+.submit {
+    color: white;
+    background-color:darkgray;
+    border-bottom: 5px solid gray;
+    border-radius: 3px;
+}
+
+form {
+    background-color: whitesmoke;
+    padding: 15px;
+    border:1px solid dimgray;
+    margin-bottom:20px;
+}
+
+.t1 {
+    border-left:5px solid red;
+    font-size:20px;
+    padding-left: 10px;
+    margin-bottom:20px;
+    font-weight: 700;
+}
+
+.kiji {
+    background-color: whitesmoke;
+    padding: 15px;
+    border:1px solid dimgray;
+    margin-bottom:20px;
+    
+}
+
+h3 {
+    font-weight:600;
+    font-size: 20px;
+    border-bottom:dashed dimgray 2px;
+}
+
+footer {
+    clear: left;
+    width: 100%;
+    font-size: 10px;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top:100px;
+    color: white;
+    text-align: center;
+}
